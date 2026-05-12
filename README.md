@@ -1,2 +1,2 @@
-# Algorytmy-I-z-o-ono-
+# Algorytmy i Złożoność-
 Aplikacja Python umożliwiająca podstawowe obliczenia matematyczne
